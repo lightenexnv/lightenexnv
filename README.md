@@ -1,5 +1,9 @@
 # 💫 About Me:
-i am neil verma currently studying btech cse with specialiazation in ai/ml and am a member of google developers group on campus on maharishi markendeshwar university mullana <br>and learning app development in flutter and concepts of ai and ml <br>i had a keen interest in learning all the tech stuff and learning new things because i find this as a magic
+I am Neil Verma, currently pursuing a B.Tech in Computer Science Engineering with a specialization in AI & ML at Maharishi Markandeshwar University, Mullana.<br>
+I am an active member of Google Developer Groups (GDG) on Campus, where I collaborate with like-minded developers and innovators.<br>
+I am learning app development using Flutter and building strong foundations in Artificial Intelligence and Machine Learning.<br>
+I have a keen interest in technology and enjoy exploring new tools and concepts, as I see technology as a kind of magic that turns ideas into reality.<br>
+I am constantly motivated to learn, grow, and stay updated with the ever-evolving tech world.
 
 
 ## 🌐 Socials:
